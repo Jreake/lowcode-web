@@ -59,16 +59,16 @@ npm run dev
 npm run build
 ```
 ## 交流
-- QQ群 976154366【已满】   1137173566【已满】   514953560【3群】
+<!-- - QQ群 976154366【已满】   1137173566【已满】   514953560【3群】 -->
 
 
 ## PR鸣谢
-- [IWANABETHATGUY](https://github.com/IWANABETHATGUY)
+<!-- - [IWANABETHATGUY](https://github.com/IWANABETHATGUY) -->
 
-## 捐赠
+<!-- ## 捐赠
 #### 如果您觉得本项目对您有帮助，可以请作者喝一杯咖啡, 让开源走的更远，感谢支持。  
 #### 也请您在捐赠后，加下qq群：976154366，私聊群主留个赞助链接。
 <img src="https://ae01.alicdn.com/kf/H50d81220a202490f961878f42ed1a636i.jpg">
 
 ## 开源协议
-[MIT](https://opensource.org/licenses/MIT)
+[MIT](https://opensource.org/licenses/MIT) -->
